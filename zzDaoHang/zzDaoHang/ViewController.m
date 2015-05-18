@@ -10,11 +10,11 @@
 
 ////////服务接口网站 www.zdoz.net
 ////起点
-double startLat = 34.7712;
+double startLat = 34.77120;
 double startLng = 113.7240;
 ////终点
-double endLat = 34.7524;
-double endLng = 113.6657;
+double endLat = 34.75240;
+double endLng = 113.66570;
 
 
 @interface ViewController ()
